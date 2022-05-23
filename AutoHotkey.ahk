@@ -2,9 +2,25 @@
 ^5::^+M
 
 ^4::
-Run, pwsh -Command "Stop-ElgatoKeyLight -Host 192.168.1.64", , Hide
+Run, cmd.exe /c "elg off", , Hide
 Return
 
 ^9::
-Run, pwsh -Command "Set-ElgatoKeyLight  -Host 192.168.1.64 -On -Brightness 5 -Temperature 4000", , Hide
+Run, cmd.exe /c "elg on", , Hide
+Return
+
+^3::
+Run, cmd.exe /c "elg dim", , Hide
+Return
+
+^8::
+Run, cmd.exe /c "elg brighten", , Hide
+Return
+
+^2::
+Run, cmd.exe /c "elg colder", , Hide
+Return
+
+^7::
+Run, cmd.exe /c "elg warmer", , Hide
 Return
