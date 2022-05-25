@@ -1,19 +1,4 @@
-executiontime
-partytime
-bxor
-notmatch
-notlike
-notcontains
-isnot
-ryanoasis
-matthewjberger
-Kondo
-Prevote
-Prevotes
-Epistory
 a11ycasts
-Codecademy
-unchecks
 AAABBAA
 aaannd
 AABC
@@ -569,6 +554,7 @@ Burleson
 Burmilla
 Burndown
 burstable
+bxor
 Byle
 Bynens
 BYOD
@@ -737,6 +723,7 @@ coddx
 codebases
 codebehind
 codeblock
+Codecademy
 codegen
 codegenerator
 codeinterview
@@ -1293,6 +1280,7 @@ envinfo
 eofline
 EPERM
 EPHT
+Epistory
 EPMO
 epub
 eqeqeq
@@ -1340,6 +1328,7 @@ EVVE
 EXAPUNKS
 Excella
 execsh
+executiontime
 Exercism
 exitzero
 expediate
@@ -1574,6 +1563,7 @@ geolocated
 geolocation
 Georgi
 Georgii
+gerardog
 Gerlich
 Gervasio
 getallcontrollers
@@ -1677,6 +1667,7 @@ gruntfuggly
 Gschwendtner
 gstatic
 gsub
+gsudo
 gtag
 gtspace
 Guake
@@ -1962,6 +1953,7 @@ isaccepted
 isanswered
 isavailable
 isnan
+isnot
 isnt
 ISNULL
 isolatedmodules
@@ -2159,6 +2151,7 @@ Kokkinos
 Kokx
 Kolesnikova
 Koliveoil
+Kondo
 Konqueror
 Konsole
 Kontent
@@ -2445,6 +2438,7 @@ materialdesignicons
 mathjax
 mathoverflow
 matthargett
+matthewjberger
 mattkander
 Mattos
 Matveeva
@@ -2568,6 +2562,7 @@ mjackson
 mjolinor's
 mkdir
 mkdocs
+mklink
 MLOC
 mlock
 mluskind
@@ -2726,6 +2721,7 @@ neuroplasticity
 neuroscientist
 neurotypical
 Neuville
+newbies
 NEWDEAL
 newhire
 NEWID
@@ -2807,9 +2803,12 @@ nospace
 nostyle
 notacoat
 notatestuser
+notcontains
 Notecards
 notfound
 nother
+notlike
+notmatch
 noto
 notranslate
 notsup
@@ -3000,6 +2999,7 @@ parens
 Pariss
 parkingaddress
 partnerimagelink
+partytime
 PASSR
 Passthrough
 passthroughs
@@ -3194,6 +3194,8 @@ preser
 prettierignore
 prettierrc
 prettydiff
+Prevote
+Prevotes
 prez
 Prijck
 PrimeNG
@@ -3522,6 +3524,7 @@ rwxr
 rwxrwx
 rwxrwxrwx
 ryanchenkie
+ryanoasis
 ryanstedman
 ryanve
 Rychko
@@ -3795,6 +3798,7 @@ SOSL
 SoSplush
 Soueidan
 Soundex
+Sourcegraph
 sourcemap
 sourcepanel
 sourcetree
@@ -4069,6 +4073,7 @@ Thayer
 thefuck
 thekaeway
 themeable
+Themeing
 theming
 thenable
 thepamstack
@@ -4265,6 +4270,7 @@ Unbuffered
 UNCA
 uncaptured
 uncheck
+unchecks
 unchunked
 unclick
 unclickable
