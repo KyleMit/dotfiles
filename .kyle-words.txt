@@ -23,6 +23,7 @@ Abramov's
 acapella
 accesskey
 accesskeys
+acctid
 Achmed
 ACIP
 acks
@@ -331,6 +332,7 @@ autocompleteclose
 autocompleting
 Autoconvert
 Autodesk
+autodetected
 autoexec
 autofetch
 autofills
@@ -397,6 +399,7 @@ Balasubramanian
 balpha
 Balsamiq
 Baltich
+Bandyopadhyay
 Barbieri
 barcodes
 barebones
@@ -484,7 +487,10 @@ Blazor
 Bliley
 Blinkist
 Bliven
+blockdown
 Blocklist
+blocklisted
+Blocklister
 blockout
 blockquote
 Blockquotes
@@ -655,6 +661,7 @@ chasetype
 chatbots
 chatrooms
 Chatterfall
+Chaudary
 Chausie
 chdir
 cheatsheet
@@ -694,6 +701,7 @@ Cieślar
 Cinelytic
 CIOs
 Ciphertext
+circleci
 CISA
 Citrix
 Claribel
@@ -759,6 +767,7 @@ codepoint
 codepoints
 codesandbox
 codeset
+codesnap
 codespace
 Codespaces
 Codewars
@@ -785,6 +794,7 @@ Columnstore
 combinator
 commandline
 commandmetadata
+commentid
 Commify
 commitlint
 Commo
@@ -897,6 +907,7 @@ csrutil
 cssclass
 cssho
 csslint
+cssnano
 cssnext
 cssprop
 Cstash
@@ -911,6 +922,7 @@ Cuomo
 Cupa
 CURLOPT
 currentrequest
+curveball
 Cust
 customawards
 Customerid
@@ -923,6 +935,7 @@ CVSS
 cwiki
 cyano
 cyanobacteria
+cyberbullying
 cyclomatic
 Cyder
 Cygwin
@@ -973,9 +986,13 @@ Datatables
 datatip
 dateadd
 datediff
+DATEFROMPARTS
+DATENAME
+DATEPART
 datepicker
 datetime
 DATETIMEOFFSET
+davidkpiano
 davidtheclark
 DAWG
 daypack
@@ -1255,6 +1272,7 @@ edgebug
 Editability
 editorconfig
 Edmonds
+Edmondson
 edness
 EDRS
 eeeps
@@ -1276,6 +1294,7 @@ Element
 Elems
 eleventy
 eleventyblog
+eleventyignore
 Elgato
 elif
 ELIFECYCLE
@@ -1316,6 +1335,7 @@ Enumerability
 enumerables
 envinfo
 eofline
+EOMONTH
 EPERM
 EPHT
 Epistory
@@ -1369,6 +1389,8 @@ Excella
 execsh
 executiontime
 Exercism
+exitable
+exitables
 exitzero
 expediate
 Expensify
@@ -1755,12 +1777,14 @@ Hanning
 Hansa
 hanselman
 Hanselman's
+Hanselminutes
 hanslatwork
 Hansson
 haproxylogs
 haproxysede
 Haque
 Hardaway
+hardbreak
 hardcode
 hardkoded
 hardlinked
@@ -1814,6 +1838,7 @@ helpcentre
 Helpdesk
 Helplink
 Helvetica
+heml
 Herff
 Hetal
 HEVC
@@ -2080,6 +2105,7 @@ Jörn
 josephsavona
 Joslyn
 Journaling
+Joyita
 JPGs
 jquense
 jquery
@@ -2163,6 +2189,8 @@ keydown
 keyframers
 keyframes
 keylight
+Keymap
+Keymaps
 keyof
 keyserver
 keyup
@@ -2229,6 +2257,7 @@ Kristle
 Krueger
 Krusader
 ktrz
+kubectl
 Kubernetes
 KUBEVAL
 Kübler
@@ -2269,6 +2298,7 @@ Lasko
 lastactive
 lastactivity
 lastchanged
+lastmod
 lastname
 Lastpass
 latinx
@@ -2309,6 +2339,7 @@ Lenahan
 Lennex
 Lerman
 Lesh
+lessonly
 Letharging
 Lettable
 letteers
@@ -2374,6 +2405,7 @@ listitem
 LitElement
 Liuzzo
 livecoded
+liveshare
 lizrice
 llist
 LLOBERA
@@ -2513,6 +2545,7 @@ maxdepth
 maxid
 Maxim
 maxlength
+maxrep
 Mayfield
 Mazar
 Mbonu
@@ -2608,6 +2641,7 @@ Minko's
 Minko’s
 minmax
 minoritized
+minrep
 mintty
 mipsytipsy
 Miracast
@@ -2718,6 +2752,7 @@ multithreaded
 Multivariant
 multiview
 MURA
+mutantdino
 mutationobserver
 MVC's
 MVPs
@@ -3012,6 +3047,7 @@ Optanon
 optimised
 Optimus
 Orantes
+orderedmap
 ordinally
 Ordóñez
 Oreos
@@ -3031,6 +3067,7 @@ outdir
 outfile
 Outfront
 Overear
+Overlayed
 overloadable
 overridable
 Overscan
@@ -3349,6 +3386,7 @@ qids
 QL’s
 QLID
 qlist
+Qonto
 Qtile
 qtip
 Qualtrax
@@ -3519,6 +3557,7 @@ resizer
 resizers
 reskinning
 resolv
+resourcemonitor
 respimg
 responsiver
 resposta
@@ -3649,6 +3688,7 @@ salesforcedx
 salesmanager
 Salnikov
 Saltis
+samcli
 sameorigin
 Samer
 samerbuna
@@ -3939,6 +3979,7 @@ sqlclient
 sqlcommand
 sqllocaldb
 sqlmigrator
+sqlserver
 Squarespace
 squidfunk
 Squirrelly
@@ -4122,6 +4163,7 @@ tada
 tageditor
 tageditornew
 tagify
+taglink
 taglist
 tagmenu
 tagname
@@ -4235,6 +4277,7 @@ TLDR
 Tlds
 tmac
 tmcentee
+tmpfs
 tnonce
 Tobyne
 toclose
@@ -4307,6 +4350,7 @@ triaging
 Trimboli
 Trinh
 Tripp
+Trix
 trixnz
 trol
 Trombeta
@@ -4490,6 +4534,7 @@ upvalue
 upvalues
 upvote
 upvoted
+upvoter
 upvotes
 upvoting
 uqfeatured
@@ -4731,6 +4776,7 @@ Westland
 westus
 Whalen
 whatchanged
+whatwg
 whatya
 Wheaton
 Whiteboarding
@@ -4758,6 +4804,7 @@ winrt
 Winset
 winstall
 Wintellect
+winterbash
 Winuser
 winver
 Wireframe
@@ -4824,6 +4871,7 @@ yarnlock
 yarnrc
 Yaru
 yaserver
+ycantu
 ycasts
 YDKJS
 yeet
