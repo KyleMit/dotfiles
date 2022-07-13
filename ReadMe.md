@@ -31,3 +31,14 @@ Available via [Nerd Fonts](https://www.nerdfonts.com/)
 *  - `\uF0E7`
 
 
+## Setup
+
+```bash
+winget install --id=JanDeDobbeleer.OhMyPosh  -e
+Invoke-WebRequest get.scoop.sh | Invoke-Expression
+scoop bucket add nerd-fonts
+scoop install FiraCode-NF
+scoop install FiraCode-NF-Mono
+setup.bat
+```
+

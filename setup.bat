@@ -8,8 +8,10 @@ mklink /h %UserProfile%\Documents\WindowsPowerShell\Microsoft.VSCode_profile.ps1
 
 mklink /h "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.ahk" AutoHotkey.ahk
 
-:: exmaple - C:\Users\kmitofsky\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json
+:: exmaple - C:\Users\kylemit\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json
 pushd %LocalAppData%\Packages\
 for /f %%i in ('dir /b Microsoft.WindowsTerminal*') do set WinTermPkgName=%%i
 popd
+
 mklink /h %LocalAppData%\Packages\%WinTermPkgName%\LocalState\settings.json windows-terminal.json
+

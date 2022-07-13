@@ -1862,6 +1862,7 @@ HISTFILESIZE
 HISTSIZE
 HKCU
 HKEY
+hklm
 Hladky
 hljs
 HMAC
@@ -4074,6 +4075,7 @@ subform
 subgrid
 subheaders
 subheadline
+subkeys
 sublicensable
 sublimetext
 Sublists
