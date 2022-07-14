@@ -273,6 +273,7 @@ Arvilla
 Aryanna
 Arzt
 Asana
+asar
 ASAX
 Asay
 asciidoctor
@@ -364,6 +365,7 @@ awscli
 awscloudformation
 awslabs
 awslogs
+AWSSAMCLI
 awsvpc
 awverify
 Axosoft
@@ -391,7 +393,9 @@ backflip
 backgrounding
 backoff
 backreference
+backstopjs
 backticks
+badurl
 Baffoni
 Bahmutov
 bain
@@ -564,7 +568,9 @@ Budhani
 Bugbee
 bugbeeb
 bugbeep
+buildhelper
 buildless
+buildx
 builtins
 bulkinsert
 bulleted
@@ -576,6 +582,7 @@ Burmilla
 Burndown
 burstable
 bxor
+bydesign
 Byle
 Bynens
 BYOD
@@ -607,6 +614,7 @@ candidateid
 Canepa
 caniuse
 Capado
+caprover
 Caputo
 carahsoft
 Carbee
@@ -654,6 +662,7 @@ Chakra
 challengetoken
 Chandrasekar
 Changemaker
+chapstick
 Chargify
 chartjs
 Chartreux
@@ -719,6 +728,7 @@ clickable
 clickanalytics
 clickonce
 ClickOnce
+clientd
 clienttoken
 Clippy
 CLIs
@@ -752,6 +762,8 @@ codebases
 codebehind
 codeblock
 Codecademy
+codeebox
+codeexisting
 codegen
 codegenerator
 codeinterview
@@ -761,6 +773,7 @@ codemod
 codemods
 Codenames
 CODEOWNERS
+codepage
 codepaths
 codepen
 codepoint
@@ -770,6 +783,7 @@ codeset
 codesnap
 codespace
 Codespaces
+codetour
 Codewars
 Codicon
 Codicons
@@ -777,6 +791,7 @@ codingeverything
 codingoutloud
 Coie
 Colasurdo
+colla
 Collab
 collectgarbage
 collectionviewsource
@@ -787,6 +802,7 @@ colorpack
 Colorpoint
 Colorpoints
 Colourpoint
+colspans
 Colston
 columnheader
 columnifexists
@@ -829,6 +845,7 @@ consumerid
 consumeridentification
 contactrequest
 contactrequeststatus
+contentdom
 contenteditable
 contentfiles
 Contentful
@@ -881,6 +898,7 @@ Crawlera
 createdby
 createreport
 creationfailed
+Crédit
 creds
 Creemee
 Creemees
@@ -907,6 +925,7 @@ csrutil
 cssclass
 cssho
 csslint
+cssmin
 cssnano
 cssnext
 cssprop
@@ -947,6 +966,7 @@ Damron
 Danalis
 Danbury
 Danby
+dancormier
 danfascia
 Danis
 Danyow
@@ -1022,6 +1042,7 @@ dealershipgroup
 dealershipid
 dealershipuid
 Dealertrack
+dealias
 dealid
 deallocated
 deallocation
@@ -1037,12 +1058,14 @@ decompile
 Decompiled
 decompiler
 Decomplie
+decos
 Decryptor
 Dedented
 Dedupe
 deduping
 deduplicated
 deduplication
+deemon
 deepak
 deepmerge
 deewhyweb
@@ -1198,6 +1221,7 @@ dotfiles
 dotnetcore
 dotnettools
 Doubleclick
+doublespace
 Dougherty
 Downasuar
 downlevel
@@ -1205,6 +1229,7 @@ downline
 DOWNLINEINFO
 downlines
 downpayment
+downstyle
 downvote
 downvoted
 downvotes
@@ -1225,6 +1250,7 @@ Drel
 Dribbble
 drilldown
 Drivewise
+dropcursor
 dropdown
 Dropdowns
 dropzone
@@ -1267,6 +1293,7 @@ eCommerce
 ECONNREFUSED
 ECSCLI
 ector
+edamagit
 EDARF
 edgebug
 Editability
@@ -1280,6 +1307,7 @@ eemeli
 eero
 effectful
 Eggy
+Egwuenu
 EHARS
 ehem
 Eich
@@ -1397,6 +1425,7 @@ Expensify
 Experian
 expressjs
 extendvs
+extensionsd
 externalid
 externalids
 externalleads
@@ -1443,6 +1472,7 @@ fboender
 fbshare
 FCPA
 FCRA
+fdescribe
 FDRS
 featureful
 featurename
@@ -1494,6 +1524,7 @@ FIRSTORDER
 firstpostmodalaltcontent
 FISMA
 Fitbit
+fixin's
 Fjällräven
 fkey
 flakolefluk
@@ -1575,6 +1606,7 @@ fullwidth
 funcs
 furbabies
 furballs
+furigana
 furt
 futbol
 futuredemodealer
@@ -1599,6 +1631,7 @@ Gammal
 Gangadhar
 Gansett
 Gantt
+gapcursor
 gapi
 Garber
 Gardenswartz
@@ -1709,6 +1742,7 @@ Grafana
 Gramm
 grandheroes
 Graphi
+graphiql
 Graphviz
 Grav
 Gravell
@@ -1785,6 +1819,7 @@ haproxysede
 Haque
 Hardaway
 hardbreak
+hardbreaks
 hardcode
 hardkoded
 hardlinked
@@ -1809,6 +1844,7 @@ HATEOAS
 Hattori
 Hatzenbuehler
 hault
+Haverbeke
 hawkgs
 HAXM
 Haydenberry
@@ -1847,6 +1883,7 @@ hget
 HHLPPP
 HHLPSS
 hideable
+hideselection
 Highcharts
 highcontrast
 highlightjs
@@ -1866,6 +1903,7 @@ Hladky
 hljs
 HMAC
 Hochanadel
+Hodgkins
 hodgson
 Hodgson
 Hoguet
@@ -1925,6 +1963,7 @@ Hyperlapse
 Hyperscale
 Hyperwallet
 Iannone
+iban
 icmp
 idcard
 Idempotency
@@ -1991,6 +2030,7 @@ inmarket
 inname
 innererror
 innersource
+innosetup
 Inntopia
 inode
 Inorder
@@ -2020,6 +2060,7 @@ Intelli
 internalid
 internalids
 interruptible
+interwebs
 introspectable
 inval
 invocable
@@ -2114,6 +2155,7 @@ jqueryui
 jQval
 JS’s
 JSbin
+jschardet
 jscheck
 jschwanz
 jsclient
@@ -2183,6 +2225,7 @@ kentcdodds
 Kenzi
 Keras
 Kerckhoff's
+kesbenp
 keybind
 Keychain
 keydown
@@ -2192,7 +2235,9 @@ keylight
 Keymap
 Keymaps
 keyof
+keypresses
 keyserver
+keytar
 keyup
 keyvault
 keyvaults
@@ -2288,6 +2333,7 @@ lambdaexecutionpolicy
 Lamonda
 LANDESK
 langdiv
+languagedetection
 Lantas
 Lapan
 Laravel
@@ -2483,6 +2529,7 @@ Maciej
 Macropad
 Madhu
 Magento
+Magit
 Mahbubul
 Mahoney
 Maida
@@ -2514,6 +2561,7 @@ marha
 Marhofer
 Mariann
 Marieke
+Marijn
 marinskiy
 Markbage
 Markbåge
@@ -2532,6 +2580,7 @@ MASSDOT
 mastapegs
 Masud
 materialdesignicons
+mathematica
 mathjax
 mathoverflow
 matthargett
@@ -2555,6 +2604,7 @@ MCVE
 mdbook
 mdhelp
 mdickin
+mdit
 MECSH
 Medica
 medipass
@@ -2683,6 +2733,7 @@ Modulify
 Modulifying
 moggies
 Mohgwyn
+Moine
 monacode
 Monero
 moneypot
@@ -2879,6 +2930,7 @@ nocookie
 nodeca
 nodegit
 nodeist
+nodeview
 NOERROR
 noexit
 nofollow
@@ -2906,6 +2958,7 @@ Nopsittiporn
 Nord
 noredirect
 noreferrer
+norepro
 norestart
 Nori
 Norlunn's
@@ -2918,12 +2971,14 @@ notacoat
 notatestuser
 notcontains
 Notecards
+notexample
 notfound
 nother
 notlike
 notmatch
 noto
 notranslate
+notreal
 notsup
 notwaldorf
 Novadine
@@ -2957,6 +3012,7 @@ nuxtjs
 nvarchar
 nvbn
 NVDA
+nwmatcher
 nwsprod
 nwstest
 nyhq
@@ -2995,6 +3051,7 @@ OKRs
 Olaph
 oldhtml
 olsh
+OLTP
 Omada
 Omark
 Omegle
@@ -3063,9 +3120,11 @@ Oster
 osxkeychain
 Otieno
 Outdent
+Outdented
 outdir
 outfile
 Outfront
+overadjusted
 Overear
 Overlayed
 overloadable
@@ -3099,6 +3158,7 @@ pageview
 pageviews
 pahen
 paintedbicycle
+Palos
 Palpatining
 PAMSTACK
 Pandoc
@@ -3118,6 +3178,7 @@ paren
 parens
 Pariss
 parkingaddress
+Parseable
 partnerimagelink
 partytime
 PASSR
@@ -3193,6 +3254,7 @@ picklists
 pico
 PID's
 pids
+piecemealed
 Piero
 Pigmeat
 Pihrt
@@ -3213,6 +3275,7 @@ Planview
 Platformer
 Platformers
 Plattsburgh
+playgrounded
 plnkr
 plopjs
 plrater
@@ -3241,6 +3304,7 @@ poolhours
 popd
 popperjs
 porcello
+Porterwood
 Portman
 Português
 POSIX
@@ -3249,6 +3313,7 @@ postalcodes
 postback
 Postbacks
 postbuild
+postceding
 Posterize
 POSTFIELDS
 postgres
@@ -3279,6 +3344,7 @@ Prebuilding
 precache
 precached
 precaching
+precommit
 precompile
 precompiled
 precomposed
@@ -3304,6 +3370,7 @@ Preformatted
 Prefs
 pregunta
 prehttp
+preinstall
 preinstantiated
 Preload
 preloadindex
@@ -3319,6 +3386,7 @@ preser
 prettierignore
 prettierrc
 prettydiff
+Previewable
 Prevote
 Prevotes
 prez
@@ -3429,6 +3497,7 @@ Rangel
 Rangle
 ransfer
 Rapide
+Rapp
 Raspbian
 ratingadmin
 ratinganalyst
@@ -3443,6 +3512,7 @@ Razzle
 RBAC
 rbxmx
 rcanepa
+rcedit
 RCKMS
 RDBMS
 rdcli
@@ -3509,6 +3579,7 @@ refetching
 Reflektive
 reflog
 reftype
+regexpp
 regexr
 regreg
 Regularitalic
@@ -3557,6 +3628,7 @@ resizer
 resizers
 reskinning
 resolv
+resolvedpos
 resourcemonitor
 respimg
 responsiver
@@ -3588,6 +3660,7 @@ ridk
 RIFS
 RIGHTDELIMIT
 righttrack
+ripgrep
 ripplejs
 Risius
 riskeutility
@@ -3638,6 +3711,7 @@ Roundforest
 roundtable
 rowheader
 rowsets
+rowspans
 royboy
 Royer
 rpmalloc
@@ -3649,6 +3723,7 @@ rsms
 rstedman
 rticks
 rtrim
+rubberband
 rubydwarf
 Ruebbelke
 rulename
@@ -3699,7 +3774,9 @@ SAMS
 samsclub
 sandboxed
 sandboxing
+Sanderson
 Sangeeta
+sanitizable
 sapegin
 Sargable
 Sarpa
@@ -3763,6 +3840,7 @@ securityadmin
 SEDE
 Segoe
 selaux
+selectednode
 selectlist
 selectlistitem
 Selina
@@ -3901,6 +3979,7 @@ SKOOL
 Skribbl
 Skroumpelou
 skydrive
+slackbot
 SLAs
 slevesque
 slidein
@@ -3920,6 +3999,7 @@ smichelotti
 Smidt
 Smishing
 smitty
+smoketest
 smores
 snackbars
 snacky
@@ -3931,10 +4011,13 @@ SNMP
 SNOMED
 Snowpack's
 snowpackjs
+Snowsight
 Snyk
 Sobject
 socio
 Softas
+softbreak
+softbreaks
 sogreen
 solarizedlight
 solarwinds
@@ -3960,13 +4043,17 @@ SP's
 Spacebars
 Spacetime
 spatialization
+spdlog
 speakerdeck
 speedlify
 Speedline
+speedrun
+speedrunners
 spherion
 Sphynx
 SPII
 Spivey
+spoilertest
 Spolsky
 Spotify
 spritify
@@ -4011,6 +4098,7 @@ stackoverflow
 Stackronyms
 stad
 stagingground
+StagingGround_Reeval
 standups
 starlark
 starlims
@@ -4063,6 +4151,7 @@ Stylesheet
 Stylesheets
 stylua
 styluaignore
+stype
 subcommunities
 Subcommunity
 subdir
@@ -4180,6 +4269,7 @@ tampermonkey
 tannerlinsley
 Taras
 tarasm
+targetable
 TARGETDIR
 Tariq
 Taryn
@@ -4191,6 +4281,7 @@ Tasklist
 tasksel
 Tatooine
 Tayar
+tbaggery
 tbls
 tcmalloc
 TDDT
@@ -4218,13 +4309,17 @@ templating
 tempspace
 Tenzin
 terkelg
+testalso
 testcomplete
 testEZ
 testfx
 testid
+testlink
 testmabl
+testme
 testonly
 testsuites
+textblock
 textbox
 textboxes
 texted
@@ -4365,6 +4460,7 @@ tsch
 tsdef
 tsdoc
 tsdx
+tsec
 tsignore
 tslib
 TSQL
@@ -4398,6 +4494,7 @@ typekit
 typeless
 typename
 typeof
+typeover
 typeparam
 Typer
 typesafety
@@ -4437,6 +4534,7 @@ unbordered
 Unbuffered
 UNCA
 uncaptured
+Uncategorized
 uncheck
 unchecks
 unchunked
@@ -4457,12 +4555,14 @@ underutilised
 Undocked
 unencrypted
 unescaped
+unexitable
 unexpectedjs
 Unflushed
 unfollow
 unfollowed
 UNHCR
 Unhide
+unhighlight
 Unicasting
 unidiff
 unimpacted
@@ -4489,6 +4589,7 @@ unopinionated
 unoptimized
 UNPATCHED
 unpooled
+unprefixed
 unprotect
 unpublish
 unpublishing
@@ -4501,6 +4602,7 @@ unsanitized
 unscoped
 Unsets
 Unshift
+unshown
 unsized
 Unstage
 unstaged
@@ -4530,6 +4632,7 @@ upsell
 Upsert
 upserts
 upskill
+upstreamed
 upvalue
 upvalues
 upvote
@@ -4623,6 +4726,7 @@ Verlet
 verlok
 vermontgov
 Veronika
+Verou
 versioning
 versionlens
 vertafore
@@ -4635,6 +4739,7 @@ Vesosky
 Vetri
 vetstreet
 Vetur
+vhdl
 videocall
 Videocam
 vidjul
@@ -4720,6 +4825,7 @@ Walonoski
 warntags
 WASC
 wasm
+watchd
 Watchlist
 watercooler
 Wathan
@@ -4735,6 +4841,7 @@ webbrowser
 webchat
 webcomponent
 webcomponents
+webd
 webdev
 webdriverjs
 webex
@@ -4786,6 +4893,7 @@ whitesmoke
 whitespaces
 whoami
 whois
+wicg
 Wickr
 Wierman
 WIFI
@@ -4851,6 +4959,7 @@ xargs
 Xchange
 xclip
 XDebug
+xdescribe
 Xerus
 XGET
 xkcd
@@ -4871,6 +4980,7 @@ yarnlock
 yarnrc
 Yaru
 yaserver
+yazl
 ycantu
 ycasts
 YDKJS

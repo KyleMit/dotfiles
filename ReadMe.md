@@ -18,6 +18,7 @@
   * autohotkey
     * elg
 * Multi-OS Support?
+* Turn off App Execution Aliases
 
 ## Icons
 
