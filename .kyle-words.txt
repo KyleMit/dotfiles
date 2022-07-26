@@ -89,6 +89,7 @@ AICPA
 AIRA
 Airtable
 Aiyana
+ajaxify
 AKID
 Alaina
 Alanis
@@ -329,6 +330,7 @@ authgrant
 authorable
 authorlist
 Authy
+autocomment
 autocompleteclose
 autocompleting
 Autoconvert
@@ -541,6 +543,7 @@ Breonna
 Bria
 Brianne
 Bridgy
+Brienna
 Brinckerhoff
 brob
 Brocchi
@@ -707,6 +710,7 @@ ciaranj
 CICD
 cids
 Cieślar
+cimv2
 Cinelytic
 CIOs
 Ciphertext
@@ -745,6 +749,7 @@ Cman
 cmder
 Cmdlet
 Cmdletbinding
+Cmdlets
 CMMI
 cmops
 CNAME
@@ -838,6 +843,7 @@ configurationmanager
 Configurator
 Conicelli
 Connelly
+Consolas
 consts
 consumerauditevents
 consumerconsent
@@ -868,6 +874,7 @@ COPD
 Copello
 COPPA
 copyfiles
+Corbin
 Cordova
 COREAPP
 corejs
@@ -1071,6 +1078,7 @@ deepmerge
 deewhyweb
 deferreds
 deflist
+Dehyphenated
 DEIB
 Deicke
 Delfausse
@@ -1181,6 +1189,7 @@ dlitem
 dll's
 dmamaril
 DMing
+DMTF
 Dname
 dobetterweb
 Docebo
@@ -1263,6 +1272,7 @@ DTOs
 Duarte
 Ducharme
 DUIs
+Dumke
 duplicative
 durandal
 Durrel
@@ -1367,6 +1377,7 @@ EOMONTH
 EPERM
 EPHT
 Epistory
+epix
 EPMO
 epub
 eqeqeq
@@ -1991,6 +2002,7 @@ imageurl
 Imagineering
 imaskjs
 IMAT
+Imba
 imgur
 imgurdl
 imgurgitate
@@ -2439,6 +2451,7 @@ linebreaks
 linelist
 Linkedin
 Linkfire
+linkified
 linkify
 linktree
 LINQ
@@ -2536,6 +2549,7 @@ Maida
 mainbar
 Maintainence
 mainthread
+Maiorana
 Mallon
 Malwarebytes
 Manara
@@ -2923,6 +2937,7 @@ NNDSS
 nnote
 noalanlawnson
 Noam
+nocaptcha
 nocasematch
 nocheck
 nock
@@ -3050,6 +3065,7 @@ OKR's
 OKRs
 Olaph
 oldhtml
+oldtags
 olsh
 OLTP
 Omada
@@ -3571,6 +3587,7 @@ redwoodjs
 Reece
 reednj
 Reeva
+reeval
 refactorings
 Refactr
 referer
@@ -3808,11 +3825,13 @@ Scooby
 screamo
 screencapture
 Screencast
+screencasts
 Screenful
 screenfull
 screenreader
 Screenshare
 Screensharing
+Scrimba
 Scriptable
 scripthost
 scrollable
@@ -3970,6 +3989,7 @@ singlequotes
 Siri
 sitename
 sitepoint
+sitesetting
 sitesonly
 Sittin
 Skaukatt
@@ -4414,6 +4434,7 @@ tput
 traceback
 tracebacks
 trackby
+trackpad
 traducir
 Trafton
 Trah
@@ -4619,6 +4640,7 @@ untracked
 untrusted
 Unupvoted
 unvalidated
+unversioned
 Unviewed
 updateable
 updatepanel
@@ -4716,6 +4738,7 @@ vehicleid
 vehicleidentification
 Veloci
 vendorkeyvalue
+Venu
 Venugopal
 Veracode
 verbing
@@ -4911,6 +4934,7 @@ winr
 winrt
 Winset
 winstall
+Winstaller
 Wintellect
 winterbash
 Winuser
@@ -4930,6 +4954,7 @@ wmic
 woah
 Wodajo
 WOFF
+Wonmi
 Woodside
 Wordle
 wordlist

@@ -1,3 +1,23 @@
+[core]
+	editor = code --wait
+
 [alias]
-	nudge = !git commit --allow-empty -m 'Trigger Build' && git push
+	nudge = !git commit --allow-empty -m 'trigger build' && git push
 	nuke = !git reset --hard HEAD && git clean -xfd
+	undo = reset --soft HEAD~1
+	co = checkout
+	refresh = "!f() { \
+		defaultBranch=$(git rev-parse --abbrev-ref origin/HEAD | sed 's/origin\\///'); \
+		echo git checkout $defaultBranch; \
+		git checkout $defaultBranch; \
+		echo git fetch; \
+		git fetch; \
+		echo git pull; \
+		git pull; \
+		echo git checkout -; \
+		git checkout -; \
+		echo git merge $defaultBranch; \
+		git merge $defaultBranch; \
+	}; \
+	f; \
+	unset f"

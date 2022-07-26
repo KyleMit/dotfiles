@@ -43,6 +43,7 @@ function migrate() {
 }
 
 function Start-AllAppPools {
+    # TODO elevate permissions
     if (!(Get-Module | Where-Object {$_.Name -eq 'IISAdministration'})) {
         Import-Module IISAdministration
     }
