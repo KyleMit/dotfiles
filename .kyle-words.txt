@@ -174,6 +174,7 @@ Anandappa
 Anaplasmosis
 Andreane
 Andreanne
+Andreas
 andremm
 Angshuman
 Angular's
@@ -336,6 +337,7 @@ autocompleting
 Autoconvert
 Autodesk
 autodetected
+autoescape
 autoexec
 autofetch
 autofills
@@ -393,6 +395,7 @@ backfill
 backfilling
 backflip
 backgrounding
+Backman
 backoff
 backreference
 backstopjs
@@ -407,6 +410,7 @@ Balsamiq
 Baltich
 Bandyopadhyay
 Barbieri
+barbosa
 barcodes
 barebones
 Barranqueiro
@@ -694,6 +698,7 @@ choco
 chorin
 Chostner
 chown
+Choy
 Chrissy
 christikaes
 Christoph
@@ -1000,6 +1005,7 @@ databinding
 Databricks
 datacenter
 datacenters
+dataclass
 datafix
 Datagram
 datagrid
@@ -1057,6 +1063,7 @@ dealtype
 dealuid
 DeBergalis
 Deblur
+Debounceable
 debouncing
 debugdata
 Debuggability
@@ -1453,6 +1460,7 @@ facetime
 Factorio
 factorypath
 Fagnani
+Falck
 Falk
 falses
 Falsey
@@ -1466,6 +1474,7 @@ Fargate
 Faridi
 farmerau
 Farrant
+Farwell
 Fasasi
 fastcall
 fastforward
@@ -1579,11 +1588,13 @@ forown
 Forrester
 fortawesome
 Fortin
+FOSS
 FOUC
 FOUT
 frangelso
 Frankenmuth
 Frederik
+Fredrik
 Freemium
 Freepik
 Fric
@@ -1712,6 +1723,7 @@ Gitlab
 gitlens
 gitpod
 gitter
+giulionf
 gkalpakas
 Glassdoor
 Glauser
@@ -1777,6 +1789,7 @@ gRPC
 Gruber
 gruntfile
 gruntfuggly
+Grygleski
 Gschwendtner
 gstatic
 gsub
@@ -1811,6 +1824,7 @@ Halp
 Halpin
 Halverson
 Hamann
+Hamdy
 Hamed
 Hammerschmidt
 hamvocke
@@ -1825,6 +1839,7 @@ Hanselman's
 Hanselminutes
 hanslatwork
 Hansson
+Happel
 haproxylogs
 haproxysede
 Haque
@@ -1836,6 +1851,7 @@ hardkoded
 hardlinked
 Hargett
 HARS
+Harter
 Hartl
 hasaccepted
 hascode
@@ -1913,6 +1929,7 @@ HKEY
 Hladky
 hljs
 HMAC
+Hoblin
 Hochanadel
 Hodgkins
 hodgson
@@ -1965,6 +1982,7 @@ hubner
 hubspot
 Hufflepuff
 Hulu
+Hupe
 Hurlbut
 Hutchins
 Hutt
@@ -2265,12 +2283,14 @@ Kilburn
 killall
 kinokrad
 Kinoshita
+Kirn
 Kiteworks
 Kito
 Kizik
 klamping
 Klarer
 Klarna
+klass
 Klassen
 klaussinani
 Kleisli
@@ -2312,6 +2332,7 @@ Kristensen
 kristinalustig
 Kristle
 Krueger
+krug
 Krusader
 ktrz
 kubectl
@@ -2364,6 +2385,7 @@ Lato
 Lavine
 laxbreak
 laxcomma
+Lazarz
 lazyimages
 lazyload
 lazysizes
@@ -2401,6 +2423,7 @@ lessonly
 Letharging
 Lettable
 letteers
+Leung
 Levinstein
 lewsid
 Lexikos
@@ -2502,6 +2525,7 @@ losslessly
 LOTR
 Lotte
 loveleetcode
+Lovesac
 Lovett
 lovewick
 Loza
@@ -2550,11 +2574,13 @@ mainbar
 Maintainence
 mainthread
 Maiorana
+Malina
 Mallon
 Malwarebytes
 Manara
 Mandelbaum
 Manee
+Manglass
 Manicsic
 Manjaro
 Mankovski
@@ -2585,6 +2611,7 @@ markdownlint
 markerikson
 marketplacemobile
 marketplacereports
+Markiewicz
 Marp
 marpit
 marvelapp
@@ -2856,6 +2883,7 @@ navi
 Navlist
 navpanes
 NCEZID
+nchar
 NCHHSTP
 nchor
 NCLBUTTONDOWN
@@ -2896,6 +2924,7 @@ neuroplasticity
 neuroscientist
 neurotypical
 Neuville
+Newberry
 newbies
 NEWDEAL
 newhire
@@ -3010,6 +3039,7 @@ NSAIDs
 nswag
 nter
 NTSI
+Nuero
 NUFFIN
 nuget
 NULL's
@@ -3098,6 +3128,7 @@ OPAM
 Opara
 opavote
 opblock
+Opelt
 openapi
 openapitools
 opencollective
@@ -3494,6 +3525,7 @@ Rable
 racecar
 RACI
 Radahn
+Radek
 radiobuttons
 Radovanovic
 Radulovski
@@ -3549,6 +3581,7 @@ readymade
 Reakit
 realpath
 Realschule
+realtweetornotbot
 reapprove
 rearchitecture
 Reauth
@@ -3612,6 +3645,7 @@ remarketing
 remarkjs
 Remo
 renderimplicit
+Rennie
 Renzo
 reparse
 replayer
@@ -3713,6 +3747,7 @@ Rollsback
 Rollup
 Ronau
 Ronen
+Rooker
 roombas
 roosterjs
 Roselyne
@@ -3814,6 +3849,7 @@ schemastore
 Schermerhorn
 Schimoler
 Schleifer
+Schwaber
 Schwanz
 Schwartzenberger
 Schwarzmüller
@@ -4134,6 +4170,7 @@ statusreached
 stdlib
 stefansundin
 Steffi
+Steinfeld
 Steph
 stephenfluin
 steppin
@@ -4292,6 +4329,7 @@ tarasm
 targetable
 TARGETDIR
 Tariq
+Tartt
 Taryn
 Taskband
 Taskboard
@@ -4354,6 +4392,7 @@ theming
 thenable
 thepamstack
 theworstdev
+thingsihavedrawn
 Thinitalic
 Thinkful
 thiscat
@@ -4902,6 +4941,7 @@ werman
 wesbos
 wescopeland
 Westchester
+Westfall
 Westland
 westus
 Whalen
@@ -5017,11 +5057,13 @@ Yingrong
 yinyang
 Yitzhaki
 Yolo
+Yoon
 youarehere
 yourfile
 youtube
 youyuxi
 ypcall
+Ytter
 Yuki
 YYYYMMDD
 yzhang
@@ -5040,6 +5082,7 @@ zendframework
 Zeplin
 zerodarkmatrix
 zeuxcg
+Zhang
 Zhao
 Zilla
 Zillow
