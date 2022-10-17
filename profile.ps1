@@ -42,7 +42,7 @@ function migrate() {
 
 }
 
-function Start-AllAppPools {
+function Start-IISAppPools {
     # TODO elevate permissions
     if (!(Get-Module | Where-Object {$_.Name -eq 'IISAdministration'})) {
         Import-Module IISAdministration
@@ -50,4 +50,17 @@ function Start-AllAppPools {
 
     # TODO - need to elevate to do this...?
     Get-IISAppPool | Where-Object { $_.State -eq 'Stopped' } | ForEach-Object { $_.Start() }
+}
+
+function touch {
+    Param(
+        [Parameter(Mandatory=$true)]
+        [string]$Path
+    )
+
+    if (Test-Path -LiteralPath $Path) {
+        (Get-Item -Path $Path).LastWriteTime = Get-Date
+    } else {
+        New-Item -Type File -Path $Path
+    }
 }
