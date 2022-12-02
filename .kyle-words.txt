@@ -28,6 +28,7 @@ acctid
 Achmed
 ACIP
 acks
+ACOG
 acord
 acornjs
 actboy
@@ -131,6 +132,7 @@ allroad
 ALLUSERSPROFILE
 Allys
 Allyship
+Almondmilk
 Alteva
 Altova
 Alvena
@@ -175,6 +177,7 @@ Analytics
 anand
 Anandappa
 Anaplasmosis
+Andor
 Andreane
 Andreanne
 Andreas
@@ -285,6 +288,7 @@ Asay
 asciidoctor
 asdf
 Asha
+Ashkenazi
 Ashleigh
 ashleytbrundage
 Ashly
@@ -292,11 +296,13 @@ Ashlynn
 Ashtyn
 ashx
 askdifferent
+askers
 askpageemailsubscription
 askpatents
 askubuntu
 aspnet
 aspnetcore
+aspnetcorerazor
 Assessmnet
 Assunta
 Astels
@@ -326,6 +332,7 @@ audiobubble
 auditdate
 Audreanne
 Aufderheide
+Augurey
 Aula
 Aurel
 Aurelie
@@ -427,6 +434,7 @@ baselining
 basepath
 Baston
 BATD
+Batirbek
 Batsie
 Battelle
 Battig
@@ -469,6 +477,7 @@ BEVS
 Bezalel
 bezier
 Bezos
+bgcolor
 bhaidar
 Bianka
 Biathletes
@@ -495,6 +504,7 @@ Bitbucket
 Bitlocker
 Bitrise
 bjornbytes
+bkelly
 blackbox
 Blackboxed
 Blackitalic
@@ -530,6 +540,7 @@ boolval
 bootcamp
 bootcamp’s
 Bootcamps
+Bootstrapper
 bootup
 boro
 Boryana
@@ -634,6 +645,8 @@ canbes
 candidateid
 Canepa
 caniuse
+canpost
+cansee
 Capado
 caprover
 Caputo
@@ -668,6 +681,8 @@ CCWIS
 CDJR
 cdnjs
 CEDEX
+cellpadding
+cellspacing
 CELR
 Centerpoint
 CEOs
@@ -771,6 +786,7 @@ Cmdlet
 Cmdletbinding
 Cmdlets
 cmds
+Cmendez
 CMMI
 cmops
 CNAME
@@ -778,6 +794,7 @@ Cnotes
 Coapplicant
 COAs
 cobertura
+Cobih
 cobol
 Cockburn
 Cockburn's
@@ -822,6 +839,7 @@ colla
 Collab
 collectgarbage
 collectionviewsource
+collincchoy
 colocated
 colocation
 colorify
@@ -859,6 +877,7 @@ computersystem
 coms
 concat
 concating
+Concerta
 cond
 Condé
 Configurability
@@ -928,8 +947,10 @@ crawlable
 Crawlera
 createdby
 createreport
+creationdate
 creationfailed
 Crédit
+creditcard
 creds
 Creemee
 Creemees
@@ -938,6 +959,7 @@ Cribsheet
 Crist
 criticalrequestchain
 CRNA
+Crohn's
 cronexpr
 Cronyn
 crossorigin
@@ -946,6 +968,7 @@ Crosswordle
 Crunchbase
 cryptoo
 cryptosystem
+CSAT
 CSELS
 csharplang
 CSHN
@@ -1008,6 +1031,7 @@ darkgreen
 darkgrey
 darkkhaki
 darkmagenta
+darkmode
 darkolivegreen
 darkorange
 darkorch
@@ -1140,16 +1164,19 @@ describedby
 deserializable
 Deserialization
 designtime
+Desirables
 Desking
 deskside
 DESQL
 DESTDIR
 destructure
 destructured
+detab
 detailz
 DeTella
 detro
 dev’s
+devaccess
 devblackops
 Devblogs
 devch
@@ -1201,6 +1228,7 @@ discardable
 Discoverability
 disfunctions
 dism
+dismissable
 disp
 displayname
 displaynames
@@ -1210,6 +1238,7 @@ distancematrix
 distro
 Distros
 ditaa
+divmod
 divs
 DJMQ
 dkozl
@@ -1232,6 +1261,7 @@ dockerps
 Dockx
 docsearch
 doctag
+doctest
 Docu
 docx
 Dodds
@@ -1279,6 +1309,7 @@ DPIA's
 dpkg
 dplogs
 DPSUV
+DQ'd
 draggable
 dragonite
 Draker
@@ -1316,6 +1347,7 @@ Dynamoosejs
 Dynatrace
 dyno
 Dynobase
+Dystrophy
 dzello
 Dzielak
 EACCES
@@ -1323,6 +1355,7 @@ eamodio
 Earnie
 Easley
 eastus
+EBITA
 EBITDA
 EBRS
 Ecap
@@ -1344,6 +1377,7 @@ eeeps
 eemeli
 eero
 effectful
+Effexor
 Eggy
 Egwuenu
 EHARS
@@ -1365,6 +1399,7 @@ Elgato
 elif
 ELIFECYCLE
 Elisa
+elitt
 ellkay
 Ellora
 Elmah
@@ -1538,6 +1573,7 @@ FHIR
 fiagency
 Fialkowski
 Fibbage
+fieldset
 fieldtrials
 FIFA
 Figma
@@ -1576,6 +1612,7 @@ Flaticon
 flatpickr
 flexbox
 flexbugs
+Floo
 Flot
 Flotiq
 flowconfig
@@ -1598,6 +1635,7 @@ fontfaceobserver
 fontfaces
 fontfamily
 fontobject
+fontsource
 foos
 forcedotcom
 forcegraph
@@ -1628,6 +1666,7 @@ Friesel
 Frikin
 Frisa
 Froberg
+fromdate
 fromen
 Fron
 frontends
@@ -1699,6 +1738,7 @@ gdoc
 Gechev
 Gechev’s
 Geekbot
+Geeksfor
 Geeta
 Geico
 Gemba
@@ -1714,6 +1754,7 @@ gerardog
 Gerlich
 Gervasio
 getallcontrollers
+getallqs
 getdate
 getelementtraceback
 getfenv
@@ -1791,6 +1832,8 @@ Goulet
 Goutay
 Gov't
 Govenor
+gpedit
+Gradapalooza
 Grafana
 Gramm
 grandheroes
@@ -1799,6 +1842,7 @@ graphiql
 Graphviz
 Grav
 Gravell
+gravidarum
 grayscale
 Graystone
 greasemonkey
@@ -1811,6 +1855,7 @@ gress
 Grewenig
 Gridlayout
 Grosvner
+Groupable
 groupbox
 Groupkey
 Groupon
@@ -1945,10 +1990,12 @@ hideselection
 Highcharts
 highcontrast
 highlightjs
+Hightower
 Hilaire
 Himalayans
 Himmy
 Hindle
+Hindley
 HIPAA
 hireme
 HiRez
@@ -1975,6 +2022,7 @@ Hollingsworth
 homequestions
 Homescreen
 hometoast
+hookname
 Hooley
 Hoorn
 Hoplark
@@ -2014,20 +2062,24 @@ hubspot
 Hufflepuff
 Hulu
 Humio
+Humira
 Hupe
 Hurlbut
 Hutchins
 Hutt
 Hwang
 HWND
+Hyperemesis
 hyperfixate
 Hyperlapse
 Hyperscale
 Hyperwallet
 IAAP
+iadd
 Iannone
 iban
 icmp
+ICWA
 idcard
 Idempotency
 IDIQ
@@ -2050,6 +2102,7 @@ Ilana
 Ilegbodu
 ILIKE
 ilities
+illo
 imagedescription
 imagedialog
 imagen
@@ -2095,6 +2148,7 @@ Infosec
 Infragistics
 Ingrassellino
 ings
+initialise
 Inkscape
 inmarket
 inname
@@ -2127,12 +2181,14 @@ intags
 Integra
 Intelephense
 Intelli
+Intellicode
 internalid
 internalids
 interruptible
 interwebs
 introspectable
 inval
+Invitae
 invocable
 ionutvmi
 ipairs
@@ -2143,10 +2199,12 @@ Irina
 isaccepted
 isanswered
 isavailable
+islice
 isnan
 isnot
 isnt
 ISNULL
+Isoflurane
 isolatedmodules
 isset
 ISVs
@@ -2154,6 +2212,7 @@ isyieldable
 italicexample
 itemssource
 Iterm
+itertools
 ITEXT
 itextsharp
 ITSI
@@ -2171,6 +2230,7 @@ Janimation
 jank
 jankiness
 janky
+jaredpalmer
 Jascha
 jasminewd
 jasonberes
@@ -2243,6 +2303,7 @@ jsfiddle
 jsmarathon
 jsmin
 jsmith
+jsmodule
 Json's
 JsonIgnore
 jsonschema
@@ -2255,6 +2316,7 @@ jtan
 JTarasovic
 juanfernandes
 judginess
+Judgy
 Jumpstart
 Juneteenth
 Jünger
@@ -2267,6 +2329,7 @@ Kaden
 Kaden’s
 Kadira
 Kaelyn
+kaios
 Kaizen
 Kallman
 Kalpakas
@@ -2293,6 +2356,7 @@ keepcommunityatourcenter
 keframes
 Kegan
 Kelly
+kelseyhightower
 Kemper
 Kemple
 Kenna
@@ -2370,6 +2434,7 @@ Kondo
 Konqueror
 Konsole
 Kontent
+Koppers
 Korat
 Korats
 Kort
@@ -2457,11 +2522,13 @@ Leatherface
 leatherman
 Lebowski
 Lebron
+leche
 Leddy
 leegcc
 leetcode
 leftanti
 LEFTDELIMIT
+leftjoin
 leftnav
 leftright
 Legendborn
@@ -2632,6 +2699,8 @@ mainbar
 Maintainence
 mainthread
 Maiorana
+Maitri
+majorchanges
 Malina
 Mallon
 Malwarebytes
@@ -2655,6 +2724,7 @@ Marchand
 marcominetti
 Marek
 Marete
+Margolis
 marha
 Marhofer
 Mariann
@@ -2746,6 +2816,7 @@ metase
 metatable
 metatables
 Metcalf
+methylphenidate
 metlife
 metrix
 Meulen
@@ -2779,6 +2850,7 @@ MikeRyanDev
 mikestead
 Milano
 Milman
+Milner
 mimalloc
 Mindbody
 mindepth
@@ -2882,6 +2954,8 @@ msmichellegar
 msnodesqlv
 mspark
 msrp
+MSSQLSERVER
+msteams
 mstest
 MSVC
 msvideo
@@ -2889,6 +2963,7 @@ msword
 MSYS
 msysgit
 mtalstykh
+MTTR
 muchos
 Muellers
 mukunku
@@ -2944,6 +3019,7 @@ Nauto
 navi
 Navlist
 navpanes
+nbsp
 NCEZID
 nchar
 NCHHSTP
@@ -2978,6 +3054,7 @@ netcoreapp
 Netlfix
 netlify
 netonly
+networkpost
 Neue
 Neuro
 neurodivergent
@@ -3035,6 +3112,7 @@ nocasematch
 nocheck
 nock
 nocookie
+nocount
 nodeca
 nodegit
 nodeist
@@ -3052,9 +3130,11 @@ nomadtechie
 nomodule
 NOMOVE
 nonbinary
+nonblanks
 nonblock
 Nonclustered
 noninteractive
+nonpublished
 nonrecursive
 nonrepudiation
 nonstrict
@@ -3075,6 +3155,7 @@ norming
 Norsk
 NOSIZE
 nospace
+nosql
 nostyle
 notacoat
 notatestuser
@@ -3093,16 +3174,19 @@ notwaldorf
 Novadine
 Novozymes
 Nowak
+nowrap
 nparashuram
 npkill
 npm's
 npmjs
 npmrc
 npoi
+Nreal
 Nrwl
 NSAID
 NSAIDs
 nswag
+NSYNC
 nter
 NTSI
 Nuero
@@ -3130,6 +3214,9 @@ nyhq
 O’Reilly
 Oakdale
 OAPIN
+Oatly
+Oatmilk
+Obih
 objectifiable
 objectionjs
 objs
@@ -3174,6 +3261,7 @@ Onbase
 onbeforeunload
 onboarders
 ONBUILD
+oncall
 onclick
 onconnecting
 ondisconnect
@@ -3186,6 +3274,7 @@ onespace
 onetrust
 onexit
 onloadstart
+onloadwff
 onmicrosoft
 onmouseover
 onmozfullscreenchange
@@ -3204,6 +3293,7 @@ opencollective
 opendocument
 OpenFin
 openidconnect
+OPENJSON
 Opensource
 openssl
 Operationalize
@@ -3270,10 +3360,12 @@ paduy
 pagedown
 pagehide
 pageload
+pagesizer
 pageview
 pageviews
 pahen
 paintedbicycle
+Pais
 Palos
 Palpatining
 PAMSTACK
@@ -3297,6 +3389,7 @@ parkingaddress
 Parseable
 partnerimagelink
 partytime
+partytown
 PASSR
 Passthrough
 passthroughall
@@ -3305,6 +3398,7 @@ passwd
 Pastore
 Pato
 Patricio
+Patronus
 patvar
 Paulson
 Pawan
@@ -3320,6 +3414,7 @@ pchandrasekar
 PDEC
 PDFs
 PDXstartups
+peaceiris
 Pearce
 pearcec
 peasy
@@ -3337,6 +3432,7 @@ performant
 Performology
 perfreport
 pergunta
+Perianal
 Perma
 permalinks
 permissionset
@@ -3352,6 +3448,8 @@ Petre
 petstore
 Pettichord
 Petzoldt
+pfilter
+pfilters
 PFLAG
 pflannery
 pgdn
@@ -3390,6 +3488,7 @@ Pkce
 pkgid
 pkgs
 pkuleon
+placeholdertext
 Planview
 Platformer
 Platformers
@@ -3418,6 +3517,7 @@ pollforlock
 Polovnyov
 polybot
 polyfill
+Polyjuice
 Pomodoro
 ponyfill
 poolhours
@@ -3427,6 +3527,7 @@ porcello
 Porterwood
 Portman
 Português
+poshbot
 POSIX
 Posnick
 postalcodes
@@ -3437,9 +3538,12 @@ postceding
 Posterize
 POSTFIELDS
 postgres
+posthistories
+posthistory
 postid
 postorder
 poststate
+poststates
 posttype
 potch
 Poth
@@ -3451,12 +3555,14 @@ poweroff
 powerpoint
 PPA
 PPAs
+PPHN
 ppienroll
 pptx
 Prac
 Pradeep
 Praharaj
 Prail
+Pramod
 Prashanth
 Preact
 Preact’s
@@ -3477,6 +3583,7 @@ predeclared
 predeploy
 predev
 prediabetes
+Prednisone
 Preethi
 Preethi’s
 prefetch
@@ -3490,6 +3597,7 @@ Prefilter
 Preformatted
 Prefs
 pregunta
+preheader
 prehttp
 preinstall
 preinstantiated
@@ -3504,6 +3612,7 @@ Preprocessors
 preprod
 prerender
 preser
+pretitle
 prettierignore
 prettierrc
 prettydiff
@@ -3557,12 +3666,14 @@ ptmalloc
 PUBPLAT
 pullrequest
 pullrequests
+Pulmonary
 Pulumi
 Puneet
 Pupdates
 Pura
 purchaseddate
 pushd
+pushstate
 PVBV
 pvorb
 PWA's
@@ -3571,6 +3682,8 @@ PWDCOMPARE
 pwsh
 Pyles
 pylint
+pyro
+pytest
 qase
 qids
 QL’s
@@ -3597,6 +3710,7 @@ Quora
 quotedgt
 quoteexample
 quotemark
+qwik
 Rable
 racecar
 RACI
@@ -3667,10 +3781,12 @@ reauthenticate
 rebake
 Rebaked
 rebaking
+Rebecca
 rebornix
 Rebrand
 rebranded
 Rebranding
+Recache
 Recalc
 Recalcing
 Recalcs
@@ -3715,6 +3831,7 @@ Regularitalic
 rehydrated
 reimplementation
 reimplemented
+reindex
 Reiniger
 reinitializes
 relativetime
@@ -3722,6 +3839,7 @@ relativeurl
 Relaxy
 remarketing
 remarkjs
+Remicade
 Remo
 RenanGreca
 renderimplicit
@@ -3777,6 +3895,7 @@ returnname
 RETURNTRANSFER
 returnurl
 reupload
+reuptake
 Revell
 rextester
 Reznik
@@ -3837,15 +3956,19 @@ roosterjs
 Roselyne
 Rosen
 Roslynator
+Rossum
 Rotavirus
 Rotem
 rotemmiz
+ROTI
 Rotnov
 rotrieve
 rotriever
 Roundforest
 roundtable
+rowcount
 rowheader
+rownum
 rowsets
 rowspans
 royboy
@@ -3875,6 +3998,7 @@ rushstack
 Russle
 rustup
 Rutter
+rval
 rwxr
 rwxrwx
 rwxrwxrwx
@@ -3890,6 +4014,7 @@ saasplus
 sacha
 sachaos
 sachdev
+Sadalage
 Safeco
 safeconow
 safecrlf
@@ -4024,6 +4149,7 @@ setopt
 setrlimit
 setuid
 setvariable
+Sewell
 SFDC
 sfdx
 Shai
@@ -4077,6 +4203,7 @@ Shortlinks
 shortlog
 shortstat
 Shotwell
+Shoulda
 shouldjs
 Shouldly
 shouldn
@@ -4191,6 +4318,8 @@ southcentralus
 SP's
 Spacebars
 Spacetime
+Spaghettios
+spammy
 spatialization
 spdlog
 speakerdeck
@@ -4203,6 +4332,8 @@ Sphynx
 SPII
 Spivey
 Splatoon
+Splitbee
+splitlines
 spoilertest
 Spolsky
 Spotify
@@ -4211,6 +4342,7 @@ SPSS
 Spyder
 spys
 sqip
+SQLAG
 SQLCL
 sqlclient
 sqlcmd
@@ -4230,6 +4362,7 @@ SSDT
 SSIS
 SSMS
 Ssrc
+SSRI
 SSRS
 SSSZ
 sstatic
@@ -4245,6 +4378,7 @@ stackenterprise
 stackex
 stackexchange
 stackid
+stackmail
 stackoverflow
 Stackronyms
 stad
@@ -4267,6 +4401,7 @@ stdlib
 stefansundin
 Steffi
 Steinfeld
+Stelara
 Steph
 stephenfluin
 steppin
@@ -4292,8 +4427,10 @@ streetsidesoftware
 Stretchly
 strikethrough
 stringly
+strs
 struct
 structs
+Strunk
 Stubailo
 Stubbin
 studds
@@ -4336,6 +4473,8 @@ subschemas
 Substack
 substitution
 substr
+subtab
+subtests
 Subtyping
 Suero
 sugarss
@@ -4357,6 +4496,7 @@ supernovabg
 surehits
 SUSER
 Susong
+Suspensey
 suspensible
 Suter
 Suter's
@@ -4390,6 +4530,7 @@ syntaxhighlight
 syntaxhighlighter
 sysdevgrp
 Sysinternals
+Sysnative
 SYSTEMROOT
 sysuse
 Szakmeister
@@ -4445,6 +4586,7 @@ Tatooine
 Tayar
 tbaggery
 tbls
+tbody
 tcmalloc
 TDDT
 Tealium
@@ -4473,7 +4615,10 @@ tempspace
 Tenzin
 terkelg
 testalso
+testcase
+testcheck
 testcomplete
+testdata
 testEZ
 testfx
 testhost
@@ -4489,6 +4634,7 @@ textboxes
 texted
 Textfield
 Thayer
+thead
 Thebaud
 thefuck
 thekaeway
@@ -4543,6 +4689,7 @@ tmpfs
 tnonce
 Tobyne
 toclose
+todate
 Todoist
 todoistjs
 todomd
@@ -4572,6 +4719,7 @@ toscalar
 TOSTR
 tostring
 Toth
+Totino's
 Touchpoint
 touchpoints
 toupdate
@@ -4636,12 +4784,15 @@ TTFB
 Tuco
 Tully
 Tunbridge
+Turbopack
+Turborepo
 Turcic
 Tushar
 Tutorialspoint
 TVRS
 tweaker
 tweetcart
+tweetdecks
 twemoji
 Twilio
 twitbtn
@@ -4764,6 +4915,7 @@ unprotect
 unpublish
 unpublishing
 unpushed
+unreadinbox
 unregister
 Unreviewable
 unring
@@ -4823,6 +4975,7 @@ urlencode
 URQL
 USAA
 usdl
+usecases
 userconfig
 userdata
 userflags
@@ -4854,6 +5007,7 @@ Valenta
 Validatable
 validateprops
 validationattribute
+valign
 Vallencourt
 valmsg
 vals
@@ -4888,6 +5042,7 @@ vehicleid
 vehicleidentification
 Veloci
 vendorkeyvalue
+Venlafaxine
 Venmo
 Venu
 Venugopal
@@ -5081,6 +5236,7 @@ Wimi
 Winarsky
 WINDIR
 windll
+Windos
 winforms
 winget
 wingrunr
@@ -5104,6 +5260,7 @@ Witalec
 Witcher
 withastro
 withbody
+withdrawl
 Wivell
 Wizarding
 wizzard
@@ -5132,6 +5289,7 @@ wrds
 Wrike
 writability
 wsex
+wsokra
 WWCDD
 wwwroot
 Wyam
@@ -5214,4 +5372,5 @@ Zoonotic
 Zorin
 zpbappi
 Zuber
+Zuora
 zzzprojects
