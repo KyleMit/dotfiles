@@ -45,6 +45,7 @@ addcomment
 addendums
 addin
 Addins
+addx
 Addy
 addyosmani
 Adelia
@@ -65,9 +66,11 @@ Adrianna
 adsvdh
 Advankar
 aFarkas
+Afee
 affabo
 affordance
 affordances
+Afib
 AFIX
 Aform
 Agarwal
@@ -252,6 +255,7 @@ appx
 appxmanifest
 aprilfools
 Aracely
+ARAG
 Arbery
 arbitrary
 Arceus
@@ -323,6 +327,7 @@ Atoi
 atomtest
 atraditional
 Attard
+attrgetter
 atts
 atwho
 Aubree
@@ -453,6 +458,7 @@ beforeend
 beforeinstallprompt
 Behance
 behaviour
+behaviourally
 behaviours
 Bemail
 benawad
@@ -502,6 +508,7 @@ Bissonette
 BITB
 Bitbucket
 Bitlocker
+bitmask
 Bitrise
 bjornbytes
 bkelly
@@ -533,6 +540,8 @@ BLUF
 bmewburn
 bmml
 Boeckeler
+Bogarting
+Bohn
 boldexample
 Bolditalic
 bools
@@ -558,6 +567,7 @@ Brabender
 bradwellsb
 Braintree
 bramstein
+Brandenberger
 Brandyn
 Brattleboro
 breakname
@@ -808,6 +818,7 @@ Codecademy
 codeebox
 codeexample
 codeexisting
+codeforbtv
 codegen
 codegenerator
 codeinterview
@@ -884,6 +895,8 @@ Configurability
 configurationmanager
 Configurator
 Conicelli
+Connell
+connellw
 Connelly
 Consolas
 consts
@@ -1070,6 +1083,7 @@ datetime
 DATETIMEOFFSET
 davidkpiano
 davidtheclark
+davinci
 DAWG
 daypack
 daysinterval
@@ -1110,6 +1124,7 @@ Debounceable
 debouncing
 debugdata
 Debuggability
+Debuggable
 debugplugin
 decompile
 Decompiled
@@ -1127,15 +1142,18 @@ deemon
 deepak
 deepmerge
 deewhyweb
+defaultdict
 deferreds
 deflist
 Dehyphenated
 DEIB
 Deicke
+deleter
 Delfausse
 delim
 delims
 Deloitte
+delx
 Demler
 demo'd
 demoable
@@ -1154,6 +1172,7 @@ dependabot
 Dependabot
 dependendencies
 Deployables
+Deployify
 deps
 depts
 Deque
@@ -1161,6 +1180,7 @@ Dequeues
 Desany
 descendents
 describedby
+Descript
 deserializable
 Deserialization
 designtime
@@ -1341,6 +1361,7 @@ DVCS
 DVHA
 dword
 Dwyer
+dylannakahodo
 dynamicparam
 dynamoose
 Dynamoosejs
@@ -1351,6 +1372,7 @@ Dystrophy
 dzello
 Dzielak
 EACCES
+EAFP
 eamodio
 Earnie
 Easley
@@ -1427,6 +1449,7 @@ endkbd
 endraw
 endregion
 endset
+endswith
 ENOENT
 Enqueues
 Entee
@@ -1435,6 +1458,7 @@ entrypoints
 Enumerability
 enumerables
 envinfo
+environmentsettings
 eofline
 EOMONTH
 EPERM
@@ -1499,6 +1523,7 @@ expediate
 Expensify
 Experian
 expressjs
+expungements
 extendvs
 extensionsd
 externalid
@@ -1590,6 +1615,7 @@ finalizers
 finanaceaccountinguser
 financeaccountinguser
 financials
+finditer
 findquote
 fintech
 Fira
@@ -1690,6 +1716,7 @@ fullpay
 fullscreen
 fullwidth
 funcs
+functools
 furbabies
 furballs
 furigana
@@ -1755,6 +1782,7 @@ Gerlich
 Gervasio
 getallcontrollers
 getallqs
+getattr
 getdate
 getelementtraceback
 getfenv
@@ -1765,6 +1793,7 @@ getn
 getpath
 getreport
 getutcdate
+getx
 gfind
 ghostbusters
 ghostdriver
@@ -1789,6 +1818,7 @@ githooks
 GitHub
 GITHUBRO
 Gitlab
+gitleaks
 gitlens
 gitpod
 gitrevisions
@@ -1961,6 +1991,7 @@ healthcheck
 healthvermont
 healthz
 heapify
+heapq
 Heapsort
 Heartbleed
 hecticness
@@ -2052,6 +2083,7 @@ HRESULT
 hset
 HSTS
 HSURV
+htmlpreview
 Htmx
 HTTPCLIENT
 HTTPHEADER
@@ -2070,11 +2102,13 @@ Hutchins
 Hutt
 Hwang
 HWND
+Hydroxyzine
 Hyperemesis
 hyperfixate
 Hyperlapse
 Hyperscale
 Hyperwallet
+Hypoventilation
 IAAP
 iadd
 Iannone
@@ -2200,17 +2234,22 @@ Irina
 isaccepted
 isanswered
 isavailable
+isinstance
 islice
+islist
+islower
 isnan
 isnot
 isnt
 ISNULL
+ISNUMERIC
 Isoflurane
 isolatedmodules
 isset
 ISVs
 isyieldable
 italicexample
+itemgetter
 itemssource
 Iterm
 itertools
@@ -2452,6 +2491,7 @@ Kristle
 Krueger
 krug
 Krusader
+KTLO
 ktrz
 kubectl
 Kubernetes
@@ -2508,6 +2548,7 @@ Lazarz
 lazyimages
 lazyload
 lazysizes
+LBYL
 LCID
 LCMHC
 lcov
@@ -2607,6 +2648,7 @@ Linqpad
 Linsley
 liquidjs
 Lisbeth
+Lisinopril
 liskov
 listitem
 LitElement
@@ -2866,6 +2908,7 @@ Minko’s
 minmax
 minoritized
 minrep
+mintime
 mintty
 mipsytipsy
 Miracast
@@ -2964,6 +3007,7 @@ msword
 MSYS
 msysgit
 mtalstykh
+mtimeit
 MTTR
 muchos
 Muellers
@@ -2993,6 +3037,8 @@ mycodeschool
 Mykhailenko
 mylogins
 myopenid
+mypatch
+mypy
 mytable
 Nace
 nada
@@ -3186,6 +3232,7 @@ Nreal
 Nrwl
 NSAID
 NSAIDs
+nsec
 nswag
 NSYNC
 nter
@@ -3198,6 +3245,7 @@ Numberish
 numeronym
 Numeronyms
 Numpad
+numpy
 nums
 numstat
 nunit
@@ -3288,6 +3336,7 @@ Opara
 opavote
 opblock
 Opelt
+openai
 openapi
 openapitools
 opencollective
@@ -3558,6 +3607,7 @@ PPA
 PPAs
 PPHN
 ppienroll
+pprint
 pptx
 Prac
 Pradeep
@@ -3664,12 +3714,14 @@ psobject
 psql
 psybercity
 ptmalloc
+publicportal
 PUBPLAT
 pullrequest
 pullrequests
 Pulmonary
 Pulumi
 Puneet
+punyon
 Pupdates
 Pura
 purchaseddate
@@ -3685,7 +3737,9 @@ Pyles
 pylint
 pyro
 pytest
+pythonic
 qase
+QDIA
 qids
 QL’s
 QLID
@@ -3856,6 +3910,7 @@ repolist
 reportingtype
 repos
 repost
+repr
 reprex
 reprioritization
 repro
@@ -3882,6 +3937,7 @@ resolv
 resolvedpos
 resourcemonitor
 respimg
+Respironics
 responsiver
 resposta
 Resprionics
@@ -4009,6 +4065,7 @@ ryanstedman
 ryanve
 Rychko
 rychkog
+Ryman
 Ryokan
 Saas
 saasplus
@@ -4037,6 +4094,7 @@ SAMS
 samsclub
 sandboxed
 sandboxing
+sandermvanvliet
 Sanderson
 Sangeeta
 sanitizable
@@ -4150,6 +4208,7 @@ setopt
 setrlimit
 setuid
 setvariable
+setx
 Sewell
 SFDC
 sfdx
@@ -4275,6 +4334,7 @@ smichelotti
 Smidt
 Smishing
 smitty
+smokedetector
 smoketest
 smores
 snackbars
@@ -4290,6 +4350,7 @@ snowpackjs
 Snowsight
 Snyk
 Sobject
+SOBM
 socio
 Softas
 softbreak
@@ -4381,6 +4442,7 @@ stackexchange
 stackid
 stackmail
 stackoverflow
+stackoverflowteams
 Stackronyms
 stad
 stagingground
@@ -4481,6 +4543,7 @@ Subtyping
 Suero
 sugarss
 Sugg
+suggestededit
 suggestiontype
 Sugrue
 Suhasini
@@ -4658,6 +4721,7 @@ thispet
 thompsonco
 thon
 threefjefff
+Thrombocytopenia
 Thunar
 Tidyverse
 tiene
@@ -4670,6 +4734,7 @@ timechart
 Timecode
 Timeframe
 timeframes
+timeit
 timepicker
 Timesheet
 Timesheets
@@ -4733,10 +4798,12 @@ tracebacks
 trackby
 trackpad
 traducir
+trafficlogs
 Trafton
 Trah
 Trailhead
 Traliant
+Transactable
 transactionid
 transformative
 Transifex
@@ -4864,6 +4931,7 @@ unchunked
 unclick
 unclickable
 uncommenting
+uncommited
 uncontextualized
 undelegate
 undelete
@@ -5317,6 +5385,7 @@ Xunit
 xvfb
 ya'll
 Yaakov
+yadm
 Yakitori
 Yarbray
 yarnlock
@@ -5370,9 +5439,11 @@ zinyando
 Zinyando
 zipball
 zipcode
+Zipwhip
 Zoonotic
 Zorin
 zpbappi
+zricethezav
 Zuber
 Zuora
 zzzprojects

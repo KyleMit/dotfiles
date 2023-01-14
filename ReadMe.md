@@ -43,3 +43,9 @@ scoop install FiraCode-NF-Mono
 setup.bat
 ```
 
+
+## Prior Art
+
+* [**YADM** - Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm)
+  * ex. [allejo/dotfiles: Please don't steal my API keys](https://github.com/allejo/dotfiles)
+

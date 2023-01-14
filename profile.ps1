@@ -25,7 +25,7 @@ function dls() {
 }
 
 function migrate() {
-    $cwd=Get-Location
+    $cwd = Get-Location
     Set-Location C:/code/StackOverflow
     git pull
 
@@ -44,7 +44,7 @@ function migrate() {
 
 function Start-IISAppPools {
     # TODO elevate permissions
-    if (!(Get-Module | Where-Object {$_.Name -eq 'IISAdministration'})) {
+    if (!(Get-Module | Where-Object { $_.Name -eq 'IISAdministration' })) {
         Import-Module IISAdministration
     }
 
@@ -54,13 +54,14 @@ function Start-IISAppPools {
 
 function touch {
     Param(
-        [Parameter(Mandatory=$true)]
+        [Parameter(Mandatory = $true)]
         [string]$Path
     )
 
     if (Test-Path -LiteralPath $Path) {
         (Get-Item -Path $Path).LastWriteTime = Get-Date
-    } else {
+    }
+    else {
         New-Item -Type File -Path $Path
     }
 }
@@ -92,8 +93,20 @@ function so-test-migrate {
 
 function so-test-integration {
     Param(
-        [Parameter(Mandatory=$true)]
+        [Parameter(Mandatory = $true)]
         [string]$testName
     )
-    dotnet test C:\code\StackOverflow\tests\StackOverflow.Tests.Integration\StackOverflow.Tests.Integration.csproj --filter DisplayName~$testName
+    dotnet test C:\code\StackOverflow\tests\StackOverflow.Tests.Integration\StackOverflow.Tests.Integration.csproj `
+        --filter DisplayName~$testName `
+        --logger "console;verbosity=normal"
 }
+function so-test-unit {
+    Param(
+        [Parameter(Mandatory = $true)]
+        [string]$testName
+    )
+    dotnet test C:\code\StackOverflow\tests\StackOverflow.Tests.Unit\StackOverflow.Tests.Unit.csproj `
+        --filter DisplayName~$testName `
+        --logger "console;verbosity=normal"
+}
+
