@@ -32,3 +32,8 @@ Available via [Nerd Fonts](https://www.nerdfonts.com/)
 *  - `\uF0E7`
 
 
+## Prior Art
+
+* [**YADM** - Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm)
+  * ex. [allejo/dotfiles: Please don't steal my API keys](https://github.com/allejo/dotfiles)
+
