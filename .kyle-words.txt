@@ -1446,6 +1446,7 @@ endeavours
 endem
 endforeach
 endkbd
+endoftext
 endraw
 endregion
 endset
@@ -1617,6 +1618,7 @@ financeaccountinguser
 financials
 finditer
 findquote
+findstr
 fintech
 Fira
 firacode
@@ -2678,9 +2680,12 @@ LoggedInUserService
 Loggly
 loginid
 logininfo
+logit
 loglevel
 logotdm
 Logox
+logprob
+logprobs
 Lohse
 LOINC
 lonefy
@@ -3107,6 +3112,7 @@ Neuro
 neurodivergent
 Neurodiversity
 neurofeedback
+neuropeptide
 neuroplasticity
 neuroscientist
 neurotypical
@@ -3288,6 +3294,7 @@ Oems
 offboarding
 offsites
 offtopic
+ohall
 ohmyzsh
 oidc
 Okami
@@ -3884,6 +3891,7 @@ regexr
 regreg
 Regularitalic
 rehydrated
+reimagined
 reimplementation
 reimplemented
 reindex
@@ -4989,6 +4997,7 @@ unreadinbox
 unregister
 Unreviewable
 unring
+unrotate
 unsalvageable
 unsanitized
 unscoped
